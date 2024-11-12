@@ -154,12 +154,6 @@ fusermount -u /mnt/redisfs
 - Network latency affects performance
 - File data compression is one-size-fits-all
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a Pull Request
-
 ### Development Setup
 ```bash
 # Setup development environment
@@ -170,7 +164,3 @@ pip install -r requirements-dev.txt
 # Run tests
 pytest tests/
 ```
-
-## License
-
-MIT License - see LICENSE file for details.
